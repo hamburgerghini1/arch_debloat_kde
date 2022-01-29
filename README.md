@@ -1,4 +1,4 @@
-# arch_debloat_kde
+# KDE Arch Debloat
 Uninstall useless KDE Programs
 
 Paste this command to your terminal
